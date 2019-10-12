@@ -1,6 +1,6 @@
-# Collapse OS
+# Kalinet OS
 
-*Bootstrap post-collapse technology*
+*https://github.com/Row-Park/Zdos/wiki/_new*
 
 Collapse OS is a z80 kernel and a collection of programs, tools and
 documentation that allows you to assemble an OS that, when completed, will be
@@ -37,5 +37,5 @@ Each folder has a README with more details.
 The project unfinished but is progressing well! See [Collapse OS' website][web]
 for more information.
 
-[libz80]: https://github.com/ggambetta/libz80
-[web]: https://collapseos.org
+[libz80]: https://https://github.com/madkali
+[web]: https://kalipark.monster
