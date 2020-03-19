@@ -1,6 +1,6 @@
 # Kalinet OS
 
-*https://github.com/Row-Park/Zdos/wiki/_new*
+*https://github.com/madkali
 
 Collapse OS is a z80 kernel and a collection of programs, tools and
 documentation that allows you to assemble an OS that, when completed, will be
@@ -39,3 +39,7 @@ for more information.
 
 [libz80]: https://https://github.com/madkali
 [web]: https://kalipark.monster
+
+----  19-3-20 update Kalinet  ----
+zdOS wallet cita blockchain
+Collapse-dapp #work in progress#
