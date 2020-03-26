@@ -51,10 +51,10 @@ contract BlockonomiToken is ERC20Interface, SafeMath {
      * Initializes contract with initial supply tokens to the creator of the contract
      */
     constructor() public {
-        name = "zdOS token";
-        symbol = "ZDS";
-        decimals = 18;
-        _totalSupply = 990000000000000000000000013;
+        name = "";
+        symbol = "";
+        decimals = ;
+        _totalSupply = ;
         
         balances[msg.sender] = _totalSupply;
         emit Transfer(address(0), msg.sender, _totalSupply);
