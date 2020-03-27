@@ -2,6 +2,12 @@
 
 *https://github.com/madkali
 
+zdOS lab's was born from the passion of getting by and the ethereum ecosystem.
+The main purpose of zdOS is to be able to create the first "operating system-dapp" by merging collapse OS and Crypto-zombie dapp and my zdOS token.
+the idea of ​​this structure is to bring people to an educational purpose and a free computer system.
+zdOS has one and only founder and one employee and this will make creation a little faster.
+I ask you interested to contact me and zdOS and predisposed to the collaboration of all of you
+
 Collapse OS is a z80 kernel and a collection of programs, tools and
 documentation that allows you to assemble an OS that, when completed, will be
 able to:
