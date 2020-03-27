@@ -1,4 +1,4 @@
-# Kalinet OS
+# Kalinet OS-dapp
 
 *https://github.com/madkali
 
@@ -38,8 +38,18 @@ The project unfinished but is progressing well! See [Collapse OS' website][web]
 for more information.
 
 [libz80]: https://https://github.com/madkali
-[web]: https://kalipark.monster
 
 ----  19-3-20 update Kalinet  ----
 zdOS wallet cita blockchain
 Collapse-dapp #work in progress#
+
+
+ 
+zdOS lab's:
+di valoncini roberto
+
+VAT number:
+11040550961
+
+to support my project:
+eth 0x8194f092a4046D07e8286dEAE953b85ed11f9066
