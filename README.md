@@ -46,9 +46,16 @@ for more information.
 [libz80]: https://https://github.com/madkali
 
 ----  19-3-20 update Kalinet  ----
-zdOS wallet cita blockchain
+zdOS = wallet cita blockchain
 Collapse-dapp #work in progress#
 
+----  29-3-20 update road-map  ----
+zdOS = airdrop kalinet by zdOS token
+
+-link's for free zdOS token and server
+Kalinet OS
+This project was born 5 years ago.
+I was able to go beyond my skills starting from improvised compuert and a very low programming capacity and despite the work and the little time I decided to give zdOS tokens that with your help as it is an open-source project to participate in evolving this reality by contributing not with money but it goes by following the referral links affiliate marketing server and mining and with a follow me in github
 
  
 zdOS lab's:
