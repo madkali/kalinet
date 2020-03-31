@@ -56,10 +56,11 @@ Kalinet OS
 This project was born 5 years ago.
 I was able to go beyond my skills starting from improvised compuert and a very low programming capacity and despite the work and the little time I decided to give zdOS tokens that with your help as it is an open-source project to participate in evolving this reality by contributing not with money but it goes by following the referral links affiliate marketing server and mining and with a follow me in github
 
----  30-3.20 ----
-kalinet is started
+---- 30-3-20 kalinet is started ----
 - https://www.stateofthedapps.com/dapps/zdos-dapp
 
+---- 31-3-20 bitmine ----
+- https://bitmine.farm/?i=109507&
 -----------------------------------------------------------------------------------------------------------------------------
 zdOS lab's:
 di valoncini roberto
