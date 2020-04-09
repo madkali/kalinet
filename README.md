@@ -1,6 +1,9 @@
 # Kalinet OS-dapp
 
-*https://github.com/madkali
+*https://github.com/madkali 
+
+Search for the administrator in discord :
+zkali (admin)
 
 zdOS lab's was born from the passion of getting by and the ethereum ecosystem.
 The main purpose of zdOS is to be able to create the first "operating system-dapp" by merging collapse OS and Crypto-zombie dapp and my zdOS token.
