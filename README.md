@@ -61,9 +61,45 @@ I was able to go beyond my skills starting from improvised compuert and a very l
 
 ---- 31-3-20 bitmine ----
 - https://bitmine.farm/?i=109507&
+
+---- 09/04/20 MintMe integrate ----
+- https://www.mintme.com/token/zdOS-token
+- http://www.mintme.com/invite/372467b4-7a68-11ea-892b-78e3b517e592 
+
+                                   ---- zDOScoin easy,fast ----
+
+fast, safe, anonymous.
+Official currency of the + Kalinet + platform
+with single server and ultra safe mining pool!
+zdOS .13 is a sole proprietorship registered in the chamber of commerce
+
+                                      ---- zdOS hack-course ----
+                      A collection of awesome penetration testing resources.
+
+Penetration testing is the practice of launching authorized, simulated attacks against computer systems and their physical infrastructure to expose potential security weaknesses and vulnerabilities.
+
+Your contributions and suggestions are heartilyhearts welcome. (✿◕‿◕). Please check the Contributing Guidelines for more details. This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+This project is supported by Netsparker Web Application Security Scanner     
+- https://github.com/madkali/awesome-pentest
+
+                          
+                                        ---- zdOS Proxy42 ----
+
+zdOS-Proxy is an open source high-performance API Gateway. Working in conjunction with APInf platform, it is designed to make APIs and microservices easy to manage by providing load balancing, authentication, rate limiting, content transformation and aggregation, logging and monitoring.
+Fork me,
+-https://github.com/madkali/proxy42
+             
+             ##########################################################################################
+                                                                                                                               .
+
+
+                                    
+                                   
+        
 -----------------------------------------------------------------------------------------------------------------------------
 zdOS lab's:
-di valoncini roberto
+madkali org.
 
 VAT number:
 11040550961
