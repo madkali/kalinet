@@ -1,6 +1,7 @@
 # Kalinet OS-dapp
 
-*https://github.com/madkali 
+* https://github.com/madkali 
+* https://www.mintme.com/token/zdOS-token
 
 Search for the administrator in discord :
 zkali (admin)
