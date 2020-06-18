@@ -3,11 +3,8 @@
 * https://github.com/madkali 
 * https://www.mintme.com/token/zdOS-token
 
-Search for the administrator in discord :
-zkali (admin)
-
-zdOS lab's was born from the passion of getting by and the ethereum ecosystem.
-The main purpose of zdOS is to be able to create the first "operating system-dapp" by merging collapse OS and Crypto-zombie dapp and my zdOS token.
+zdOS lab's was born from the passion of getting by and the cryptonote ecosystem.
+The main purpose of zdOS is to be able to create the first "operating system-dapp" by merging collapse OS and my zdOScoin.
 the idea of ​​this structure is to bring people to an educational purpose and a free computer system.
 zdOS has one and only founder and one employee and this will make creation a little faster.
 I ask you interested to contact me and zdOS and predisposed to the collaboration of all of you
@@ -50,21 +47,13 @@ for more information.
 [libz80]: https://https://github.com/madkali
 
 ----  19-3-20 update Kalinet  ----
-zdOS = wallet cita blockchain
-Collapse-dapp #work in progress#
+-Collapse-dapp #work in progress#
 
 ----  29-3-20 update road-map  ----
-zdOS = airdrop kalinet by zdOS token
--link's for free zdOS token and server
+-link's for free zdOScoin and server
 Kalinet OS
 This project was born 5 years ago.
-I was able to go beyond my skills starting from improvised compuert and a very low programming capacity and despite the work and the little time I decided to give zdOS tokens that with your help as it is an open-source project to participate in evolving this reality by contributing not with money but it goes by following the referral links affiliate marketing server and mining and with a follow me in github
-
----- 30-3-20 kalinet is started ----
-- https://www.stateofthedapps.com/dapps/zdos-dapp
-
----- 31-3-20 bitmine ----
-- https://bitmine.farm/?i=109507&
+I was able to go beyond my skills starting from improvised compuert and a very low programming capacity and despite the work and the little time I decided to give zdOScoin that with your help as it is an open-source project to participate in evolving this reality by contributing not with money but it goes by following the referral links affiliate marketing server and mining and with a follow me in github
 
 ---- 09/04/20 MintMe integrate ----
 - https://www.mintme.com/token/zdOS-token
@@ -109,4 +98,4 @@ VAT number:
 11040550961
 
 to support my project:
-eth 0x8194f092a4046D07e8286dEAE953b85ed11f9066
+eth paypal.me/madkali
