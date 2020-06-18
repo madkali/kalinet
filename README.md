@@ -97,5 +97,4 @@ madkali org.
 VAT number:
 11040550961
 
-to support my project:
-eth paypal.me/madkali
+to support my project: paypal.me/madkali
